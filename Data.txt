@@ -1,0 +1,8 @@
+
+For this project we need the following data :
+
+Gurgaon Resturants data that contains list of Locality, Resturant name,Rating along with their latitude and longitude.
+Data source : Zomato kaggel dataset
+Description : This data set contains the required information. And we will use this data set to explore various locality of gurgaon city.Nearby places in each locality of gurgaon city.
+Data source : Fousquare API
+Description : By using this api we will get all the venues in each neighborhood.
