@@ -1,0 +1,21 @@
+Gurgaon is a city just southwest of New Delhi in northern India. It’s known as a financial and technology hub. 
+The Kingdom of Dreams is a large complex for theatrical shows. Sheetala Mata Mandir is an orange-and-white-striped 
+Hindu temple. The Vintage Camera Museum showcases cameras and prints spanning a century. West of the city, Sultanpur 
+National Park is home to hundreds of bird species.
+
+The official language of Gurgaon and the one that is most widely spoken is Hindi. However, English is also spoken as 
+a formal language within businesses and government agencies. Over last decades it is continuously growing because of the 
+city’s important role in government and commercial business.
+
+With it’s diverse culture , comes diverse food items. There are many restaurants in Gurgaon City, each belonging to 
+different categories like Chinese , Italian , French etc. So as part of this project , we will list and visualise all 
+major parts of Gurgaon City and find which place is good for people so that can eat their favourite food of particular
+cuisine.
+
+Questions that can be asked using the above mentioned datasets
+
+What is best location in Gurgaon City for Chinese Cuisine ?
+Which areas has large number of Chinese Restaurants?
+Which all areas have less number of restaurants ?
+Which is the best place to stay if I prefer Chinese Cuisine ?
+Which places are having best restaurants in Gurgaon?
